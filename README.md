@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: Renusri Naraharashetty
-# Register Number: 212223240139
+# Developed By: PREETHI A K
+# Register Number: 212223230156
 
 import cv2
 import numpy as np
